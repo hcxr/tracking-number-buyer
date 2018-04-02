@@ -1,0 +1,20 @@
+{
+  "name": "tracking-number-buyer",
+  "version": "1.0.0",
+  "description": "Tracking Number Buyer Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/hcxr/tracking-number-buyer",
+  "keywords": [
+    "tracking",
+    "number",
+    "buyer"
+  ],
+  "author": "springsun",
+  "license": "",
+  "devDependencies": {
+    "electron": "~1.8.4"
+  }
+}
